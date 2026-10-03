@@ -1,6 +1,8 @@
 # İzlinle
 [![Dizipal Downloads](https://img.shields.io/github/downloads/izlinle/izlinle/total.svg?style=flat&label=Toplam%20İndirme)](https://github.com/dizipaltv/dizipal/releases)
 
+> İzlinizle izliyorum.
+
 Açık kaynak kodlu izlinle masaüstü uygulaması
 
 ## Nasıl İndirilir?
