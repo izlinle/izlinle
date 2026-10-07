@@ -9,8 +9,6 @@ Açık kaynak kodlu izlinle masaüstü uygulaması
 
 [Buradan](https://github.com/izlinle/izlinle/releases/latest) son sürüme ulaşabilirsiniz. Bu sayfaya gittiğinizde Assets başlığı altında yer alan .exe dosyasını indirip kurmanız yeterli olacaktır.
 
-<br />
-
 ## Geliştiriciler için yükleme talimatları:
 
 Kaynak kodlarıyla oynamak kendinize göre değiştirmeniz için birkaç bilgi sunacağım: Kullandığım,
