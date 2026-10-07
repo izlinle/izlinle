@@ -17,18 +17,13 @@ Kaynak kodlarıyla oynamak kendinize göre değiştirmeniz için birkaç bilgi s
 |------------------------------| -------- | ------- |
 | Programlama Dili             | Nodejs   | 20.17.0 |
 | Masaüstü Uygulama Yaratıcısı | Electron | 32.0.1  |
-| Paket Yöneticisi             | Yarn     | 1.22.22   |
-
-<br />
-
-## Kaynak Kodlarını Nasıl İndiririm?
-> [!IMPORTANT]      
-> Bilgisayarınızda [git-scm](https://git-scm.com/)'in son sürümünün bulunması gerekmektedir.      
-> ve de [Nodejs](https://nodejs.org)'in lts sürümünün sürümünün bulunması gerekmektedir.          
-
-<br />
+| Paket Yöneticisi             | Yarn     | 1.22.22   |    
 
 #### Bu depoyu klonlayarak başlayın
+
+> [!IMPORTANT]      
+> Bilgisayarınızda [git-scm](https://git-scm.com/)'in son sürümünün bulunması gerekmektedir.      
+> ve de [Nodejs](https://nodejs.org)'in lts sürümünün sürümünün bulunması gerekmektedir.      
 
 Github depomuzu klonlamak için aşağıdaki komutu terminalinize yapıştırınız.
 
