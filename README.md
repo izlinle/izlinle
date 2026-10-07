@@ -11,10 +11,6 @@ Açık kaynak kodlu izlinle masaüstü uygulaması
 
 <br />
 
-[![indir](https://cdn.jsdelivr.net/gh/izlinle/assets/pictures/indir.webp)](https://github.com/izlinle/izlinle/releases/latest)
-
-<br />
-
 ## Geliştiriciler için yükleme talimatları:
 
 Kaynak kodlarıyla oynamak kendinize göre değiştirmeniz için birkaç bilgi sunacağım: Kullandığım,
